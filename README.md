@@ -1,4 +1,4 @@
-  <img align="left" alt="React JS" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/react.svg" />
+  <img align="center" alt="React JS" width="50x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" />
 
 ## Repository to study React.
 

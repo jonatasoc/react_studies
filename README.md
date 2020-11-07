@@ -5,6 +5,8 @@
 
 <hr>
 
+### React Context API
 ### React useContext ✅
 ### React useCallback 
 ### React useRef
+### React useMemo
